@@ -1,2 +1,3 @@
 # Sales-Analysis-and-Dashboard
-[Supermarket_Sales_Dashboard on Google Data Studio (1).pdf](https://github.com/user-attachments/files/24610785/Supermarket_Sales_Dashboard.on.Google.Data.Studio.1.pdf)
+<img width="2500" height="1876" alt="Supermarket_Sales_Dashboard on Google Data Studio (1)-1" src="https://github.com/user-attachments/assets/51fecc12-d3e4-4073-9797-c5015a3e4b90" />
+<img width="2500" height="1876" alt="Supermarket_Sales_Dashboard on Google Data Studio (2)-1" src="https://github.com/user-attachments/assets/023205c6-187f-4896-aee5-1d7f49c408c7" />
