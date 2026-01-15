@@ -6,8 +6,8 @@ The  wants to create an annual sales report for 2025. So that, the owner of the 
 paste code here
 
 ## Questions (KPIs)
--Compare the sales and orders using single chart.
--Which month got the highest sales and orders?
+- Compare the sales and orders using single chart.
+- Which month got the highest sales and orders?
 -Who purchased more - Men or Women?
 -What are different order status in 2022?
 -List top 10 states contributingto the sales?
