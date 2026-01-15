@@ -12,7 +12,8 @@ paste code here
 - Which outlet got the highest sales and orders till date?
 - What is the total MRP of per item category?
 - Total net weight of per item category?
-- Dashboard Interaction <a herf="https://github.com/sebastianjayababu-code/Sales-Analysis-and-Dashboard/blob/main/Supermarket%20Sales%20Dashboard%2C%20LegalEase%20Company%2CChennai.xlsx">Dataset </a>
+- Dashboard Interaction 
+<a herf="https://github.com/sebastianjayababu-code/Sales-Analysis-and-Dashboard/blob/main/Supermarket%20Sales%20Dashboard%2C%20LegalEase%20Company%2CChennai.xlsx">Dataset</a>
 
 
 ## Process
