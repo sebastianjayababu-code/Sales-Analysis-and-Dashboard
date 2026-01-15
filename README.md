@@ -1,21 +1,18 @@
-# LegalEase Company, Superstore Sales-Analysis-and-Dashboard
+# Recheck LegalEase Company, Superstore Sales-Analysis-and-Dashboard
 ## Project Objective
-The  wants to create an annual sales report for 2025. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The LegalEase Company wants to create an annual sales report for establishing the outlet performance. So that, the owner of the LegalEase Company can understand their outlets performance and grow more sales.
 
 ## Dataset
 paste code here
 
 ## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
-- Dashboard Interaction
+- Compare the sales of items
+- Which type of supermartket is contributing maximum to the sales?
+- Bring out Highest selling items?
+- Which outlet got the highest sales and orders till date?
+- What is the total MRP of per item category?
+- Total net weight of per item category?
+- Dashboard Interaction (Paste code here)
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -26,12 +23,11 @@ paste code here
 ## Dashboard
 <img width="2500" height="1876" alt="Supermarket_Sales_Dashboard on Google Data Studio (1)-1" src="https://github.com/user-attachments/assets/51fecc12-d3e4-4073-9797-c5015a3e4b90" />
 
-## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+## Project Insight (get from KPI Q's)
+- Snacks, fruits & vegetables have the highest sales for supermarket 
+- Type supermartket 1 is contributing maximum to the sales 
+- The outlet identified as OUT035, eastablished in 2004 got the highest sales and orders till date.
+- Fruits and vegetables have the highest total of MRP & wieght compared to other item.
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To improve the sales of LegalEase Company, a strategic marketing plan focused on Snacks, fruits & vegetables should be implemented. This item categories represents a key consumer segment, as they often make the most amount of sales for the department and which also mean brings the highest footfall for the Superstore. The approach should include creating a superstore model which revolves arouund fresh vegetables and fruits with popular snack items.
