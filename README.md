@@ -12,7 +12,8 @@ paste code here
 - Which outlet got the highest sales and orders till date?
 - What is the total MRP of per item category?
 - Total net weight of per item category?
-- Dashboard Interaction (Paste code here)
+- Dashboard Interaction [Supermarket Sales Dashboard, LegalEase Company,Chennai.xlsx](https://github.com/user-attachments/files/24642623/Supermarket.Sales.Dashboard.LegalEase.Company.Chennai.xlsx)
+
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
