@@ -1,4 +1,4 @@
-# Recheck LegalEase Company, Superstore Sales-Analysis-and-Dashboard
+# LegalEase Company, Superstore Sales-Analysis-and-Dashboard
 ## Project Objective
 The LegalEase Company wants to create an annual sales report for establishing the outlet performance. So that, the owner of the LegalEase Company can understand their outlets performance and grow more sales.
 
