@@ -3,7 +3,7 @@
 The LegalEase Company wants to create an annual sales report for establishing the outlet performance. So that, the owner of the LegalEase Company can understand their outlets performance and grow more sales.
 
 ## Dataset Used
-- <a herf="https://github.com/sebastianjayababu-code/Sales-Analysis-and-Dashboard/blob/main/Supermarket%20Sales%20Dashboard%2C%20LegalEase%20Company%2CChennai.xlsx">Dataset</a>
+[Supermarket Sales Dashboard, LegalEase Company,Chennai.xlsx](https://github.com/user-attachments/files/24662801/Supermarket.Sales.Dashboard.LegalEase.Company.Chennai.xlsx)
 
 ## Questions (KPIs)
 - Compare the sales of items
